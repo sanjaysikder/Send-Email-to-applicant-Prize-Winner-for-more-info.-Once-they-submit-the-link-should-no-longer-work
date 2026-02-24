@@ -1,4 +1,4 @@
-# Prize Winner Notification & Registration (Send Email to applicant/Prize Winner for more info. Once they submit, or if the status is not “Requested”, the link should no longer work.
+# Applicant/ Prize Winner Notification & Registration (Send Email to applicant/Prize Winner for more info. Once they submit, or if the status is not “Requested”, the link should no longer work.
 ## Overview
 This Oracle APEX application automates the process of notifying prize winners and collecting their information through a secure self-service portal. The system ensures that only winners with a "Requested" status can access the registration form, and the link becomes invalid once the information is submitted.
 
